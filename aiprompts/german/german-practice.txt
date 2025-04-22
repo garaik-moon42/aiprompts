@@ -1,0 +1,1565 @@
+Szia! Most már másfél éve tanulok németül és folyamatosan gyűjtöm a megtanult szavakat egy táblázatba. Szeretném gyakorolni amit már megtanultam, ezért bemásolnám neked ide ezeket a szavakat és azt szeretném, hogy írj egy-egy olyan mondatot amit én ezzel szókincssel le tudok fordítani németre. 
+Miután válaszoltam a német mondatra, kérlek ellenőrizd a helyességét, majd írj egy másik mondatot amit lefordíthatok. 
+A fordításoknak nem kell tökéletesnek lenniük, nyelvtanilag legyenek ugyan helyesek, de vedd figyelembe, hogy ugyanazt sokféleképpen ki lehet fejezni.
+A szavakat tartalmazó táblázat nem egyszerűen a német szavakat és azok magyar jelentéseit tartalmazza, de tartalmazza főnevek esetén azok névelőit, a többbes szám képzésének módját (azt többnyire rövidítve, csak akkor van teljesen kiírva ha egyedi a többes száma az adott főnévnek), igék esetében néha azok vonzatát (tárgyeset, alanyeset, stb.), illetve néha egy-egy teljeses kifejezés is előfordul a táblázatban.
+A lefordított mondatok lehetnek egyszerű kijelentő mondatok, kérdések, lehetnek jelen és befejezett múlt időben, sőt akár egyszerű jövő időben is. Összetett mondatok ne legyenek, azok alkotását még nem tanultam.
+
+Kezdjünk is bele, itt a táblázat:
+
+das Hemd, -en	(férfi)ing
+der Tisch, -e	asztal
+das Restaurant, -s	étterem
+das Kind, -er	gyerek
+die Zeichnung, -en	rajz
+der Stuhl, -e	szék
+das Fenster, -	ablak
+das Gesicht, -er	arc
+das Problem, -e	probléma
+das Bild, -er	kép
+die Übung, -en	gyakorlás
+das Beispiel, -e	példa
+der Name, -n	név
+das Jahr, -e	év
+der Beruf, -e	foglalkozás
+der Tag, -e	nap
+das Hobby, -s	hobbi
+der Bruder, die Brüder	fiútestvér
+die Schwester, -n	lánytestvér
+die Sprachkenntnis	nyelvismeret
+der Opa, -s	nagypapa
+die Oma, -s	nagymama
+das Gespräch, -e	beszélgetés
+die Person, -en	személy
+das Geschenk, -e	ajándék
+das Zeichen, -	jel
+das Fragezeichen	kérdőjel
+der Punkt, -en	pont
+der Kuli, -s	golyóstoll
+der Park, -s	park
+die Brezel, -n	perec
+der See, -n	tó
+die See, -n	tenger
+die Jacke, -n	dzseki
+der Knopf, die Knöpfe	gomb
+die Ente, -n	kacsa
+die Bank, die Bänke	pad
+das Tablet, -s	tablet
+der Rest, -e	maradék
+das Gras, die Gräser	fű
+der Stein, -e	kő
+der Kies, -e	kavics
+der Teich, -e	tó, tavacska
+der Morgen, -	reggel
+der Abend, -e	este
+die Nacht, die Nächte	éjszaka
+die Stadt, die Städte	város
+das Land, die Länder	ország
+das Ufer, -	part
+der Weg, -e	út
+der Rahmen, -	keret
+die Farbe, -n	szín
+der Moment, -e	pillanat
+die Geschwister (pl.)	testvérek
+die Pause, -n	szünet
+die Eltern (pl.)	szülők
+der Druck, -e	nyomás
+der Ausdruck	kifejezés
+die Tochter, die Töchter	lánya valakinek
+der Sohn, die Söhne	fia valakinek
+der Enkel, -	unoka (fiú)
+die Enkelin, -nen	unoka (lány)
+die Geschichte, -n	történet
+das Komitat, -e	vármegye
+das Bundesland	tartomány, megye
+der Mittag	dél
+der Zettel, -	cetli
+der Freund, -e	barát
+die Freundin, -nen	barátnő
+der Zwilling, -e	iker
+der Schwager, die Schwäger	sógor
+die Schwägerin, -nen	sógornő
+der Kurs, -e	tanfolyam
+das Wort, -er	szó
+die Lektion, -en	lecke
+die Dame, -n	hölgy
+die Musik (sg.)	zene
+die Entschuldigung, -en	bocsánat
+die Firma, -en	cég
+die Sprache, -n	nyelv
+der Buchstabe, -n	betű
+das Alphabet (sg.)	ábécé
+die Adresse, -n	lakcím
+der Sport (sg.)	sport
+die Straße, -n	utca
+das Telefon, -e	telefon
+das Formular, -e	nyomtatvány
+die Postleitzahl	irányítószám
+das Paar, -e	pár
+der Tausend, -e	ezer
+die Million, -en	millió
+die Frage, -n	kérdés
+die Brechung, -en	törés
+die Erde (sg.)	Föld
+die Nummer, -n	szám
+die Heimat, -en	haza
+der Liebling, -e	kedvenc
+das Geld, -er	pénz
+das Bargeld	készpénz
+die Lehrerin, -nen	tanárnő
+die Liste, -n	lista
+die Zahl, -en	szám
+die Null, -en	nulla
+der Ort, -e	hely, helység
+die Polizei (sg.)	rendőrség
+der Arzt, die Ärzte	orvos
+der Partner, -	partner, társ
+die Partnerin, -nen	partnernő, társnő
+der Satz, die Sätze	mondat
+der Held, -en	hős
+der Mensch, -en	ember
+die Landschaft, -en	táj, vidék
+der Wald, die Wälder	erdő
+die Fremde, -n	idegen (férfi/nő)
+der Polizist, -en	rendőr
+die Lösung, -en	megoldás
+das Rätsel, -	rejtvény
+
+das Geschoss, -e	emelet
+die Steuer, -n	adó
+der Stand, die Stände	helyzet, rang
+das Alter, -	életkor
+der Onkel, -	nagybácsi
+die Tante, -n	nagynéni
+der Vetter, -	unokatestvér, fiú
+die Vetter (pl.)	unokatestvérek
+die Kusine, -n	unokatestvér, lány
+der Neffe, -n	unokaöccs
+die Nichte, -n	unokahúg
+der Schwiegervater	após
+die Schwiegermutter	anyós
+die Schwiegertochter	meny
+der Schwiegersohn	vej
+der Stiefvater	nevelőapa
+die Stiefmutter	nevelőanya
+die Küche, -n	konyha
+der Platz, die Plätze	tér
+das Mehl, -e	liszt
+die Gabe, -n	adottság
+die Aufgabe	feladat
+das Ei, -er	tojás
+der Kuchen, -	sütemény
+der Pfannkuchen	palacsinta
+der Arbeiter, -	munkás, dolgozó
+der Mitarbeiter	munkatárs
+der Kassierer, -	pénztáros
+der Mist, -e	hülyeség
+der Feierabend	munkaidő vége
+die Stellung, -en	állás, helyzet
+die Vorstellung	bemutatkozás
+der Informatiker, -	informatikus
+das Zentrum, die Zentren	központ
+die Banane, -n	banán
+die Butter (sg.)	vaj
+die Milch (sg.)	tej
+der Zucker, -	cukor
+die Schokolade, -n	csokoládé
+der Kauf, die Käufe	vásárlás
+der Einkauf	bevásárlás
+der Hund, -e	kutya
+das Haus, die Häuser	ház
+die Katze, -n	macska
+das Auto, -s	autó
+das Bier, -e	sör
+das Buch, die Bücher	könyv
+die Zeitung, -en	újság
+das Regal, -e	polc
+der Unterschied, -e	különbség
+der Wagen, -	kocsi
+das Brot, -e	kenyér
+die Kartoffel, -n	krumpli
+der Durst (sg.)	szomjúság
+die Zwiebel, -n	hagyma
+das Fleisch (sg.)	hús
+der Tee, -s	tea
+der Käse (sg.)	sajt
+der Fisch, -e	hal
+das Wasser (sg.)	víz
+der Reis (sg.)	rizs
+das Salz, -e	só
+der Euro (sg.)	euró
+die Welt, -en	világ
+der Saft, die Säfte	gyümölcslé
+der Joghurt, -s	joghurt
+der Obst (sg.)	gyümölcs
+das Gemüse, -	zöldség
+der Wein, -e	bor
+der Preis, -e	ár
+der Cent (sg.)	cent
+der Prospekt, -e	prospektus
+das Angebot, -e	ajánlat
+das Sonderangebot	árleszállítás
+das Mittel, -	eszköz
+das Lebensmittel	élelmiszer
+die Abteilung, -en	részleg
+die Wurst, die Würste	kolbász
+das Hackfleisch	darálthús
+das Öl, -e	olaj
+das Kilo (sg.)	kiló
+das Gramm (sg.)	gramm
+das Pfund (sg.)	font
+der Liter, -	liter
+die Flasche, -n	üveg, palack
+die Dose, -n	konzervdoboz
+die Sahne (sg.)	tejszín
+die Mensa, die Mensen	menza
+das Steak, -s	steak
+der Salat, -e	saláta
+die Soße, -n	szósz
+das Hähnchen, -	csirke
+die Pommes (pl.)	hasábburgonya
+die Pizza, die Pizzen	pizza
+das Cola, -s	kóla
+das Essen, -	étel, étkezés
+das Rezept, -e	recept
+die Portion, -en	adag
+das Glas, die Gläser	pohár
+die Suppe, -n	leves
+der Pfeffer (sg.)	bors
+das Getränk, -e	ital
+die Leute (pl.)	emberek
+der Vegetarier, -	vegetáriánus
+die Seite, -n	oldal
+der Verkäufer, -	eladó
+die Schade, -n	kár
+die Erbse, -n	borsó
+die Bohne, -n	bab
+der Becher, -	műanyag pohár
+die Brühe, -n	alaplé
+der Spargel, -	spárga
+die Beere, -n	bogyó
+die Erdbeere	eper
+die Haxe, -n	csülök
+das Kraut, die Kräuter	káposzta
+der Kümmel, -	köménymag
+das Blatt, die Blätter	falevél
+der Löffel, -	kanál
+das Fett, -e	zsír
+die Hefe, -n	élesztő
+der Mais, -e	kukorica
+die Soda (sg.)	szóda
+der Pfirsich, -e	őszibarack
+der Kohlrabi (sg.)	karalábé
+die Nuss, die Nüsse	dió
+die Rosine, -n	mazsola
+der Staub (sg.)	por
+der Strudel, -	rétes
+das Lorbeerblatt	babérlevél
+die Zutat, -en	hozzávaló
+die Fassung, -en	felfogás
+die Zusammenfassung	összefoglalás
+das Gewürz, -e	fűszer
+der Begriff, -e	fogalom
+die Lage, -n	fekvés, helyzet
+die Beilage	köret
+die Prüfung, -en	vizsga
+die Lieferadresse	szállítási cím
+das Gesamt, -e	az egész
+die Art, -en	mód, jelleg
+die Zahlungsart	fizetés módja
+die Mehrwertsteuer	ÁFA
+die Erfolg, -e	siker
+der Traum, die Träume	álom
+das Zimmer, -	szoba
+das Gegenteil	ellentét
+die Wohnung, -en	lakás
+das Bad, die Bäder	fürdő
+der Flur, -e	folyosó
+die Toilette, -n	WC
+der Balkon, -e	erkély
+der Monat, -e	hónap
+der Schrank, die Schränke	szekrény
+das Bett, -en	ágy
+der Seher, -	látnok
+der Fernseher	televízió
+die Dusche, -n	zuhanyozó
+der Herd, -e	tűzhely
+die Wanne, -n	kád
+die Badewanne	fürdőkád
+der Teppich, -e	szőnyeg
+der Sessel, -	karosszék
+die Möbel (pl.)	bútorok
+
+der Zentimeter	centiméter
+das Handy, -s	mobiltelefon
+die Arbeit (sg.)	munka
+die Anzeige, -n	hirdetés
+das Ehepaar	házaspár
+der Garten, -	kert
+das Apartment, -s	apartman
+der Raum, die Räume	terem, helyiség
+der Stock (sg.)	készlet
+der Anruf, -e	hívás
+das TV (sg.)	TV
+die Garage, -n	garázs
+der Quadratmeter	négyzetméter
+die Miete, -n	lakbér
+der Stift, -e	ceruza
+das Holz, die Hölzer	fa (anyag)
+der Computer, -	számítógép
+das Heft, -e	füzet
+die Hausaufgabe	házi feladat
+die Welle, -n	hullám
+die Mikrowelle	mikrohullámú sütő
+der Küchenschrank	konyhaszekrény
+die Kaffeemaschine	kávéfőző
+der Sauger, -	szívó
+der Staubsauger	porszívó
+die Spülmaschine	mosogatógép
+der Kocher, -	forraló
+das Spülbecken	mosogató
+das Becken, -	medence
+der Wäschetrockner	szárítógép
+das Bidet, -s	bidé
+die Kommode, -n	komód
+der Nachttisch	éjjeliszekrény
+der Einbauschrank	beépített szekrény
+die Stehlampe	állólámpa
+die Betonung, -en	hangsúly
+der Gegenstand	tárgy
+die Ware, -n	áru
+die Backware	pékáru
+die Abkürzung, -en	rövidítés
+die Warmmiete	lakbér, fűtés árával együtt
+die Kaltmiete	labér, fűtés ára nélkül
+die Tiefgarage	mélygarázs
+die Immobilie, -n	ingatlan
+das Weihnachten, -	karácsony
+das Tagebuch	napló
+die Menge, -n	mennyiség
+der Drucker, -	nyomtató
+sprechen	beszélni
+essen	enni
+sich vorstellen	bemutatkozni
+machen	csinálni
+ziehen	húzni
+spazieren	sétálni
+kommen	jönni
+heißen	hívni, nevezni
+sagen	mondani
+lernen	tanulni
+suchen	keresni
+arbeiten	dolgozni
+kennen	ismerni
+ergänzen	kiegészíteni
+zuordnen	hozzárendelni
+warten	várni
+fragen	kérdezni
+spielen	játszani
+kreuzen	keresztezni
+ansehen	megnézni
+vergessen	elfelejteni
+verbinden	összekötni
+schreiben	írni
+sammeln	gyűjteni
+halten	tartani
+malen	festeni
+sich unterhalten	beszélgetni
+lachen	nevetni
+klingen	csengeni
+erzählen	mesélni
+lächeln	mosolyogni
+sitzen	ülni
+fressen	zabálni
+stehlen	lopni
+stehen	állni
+lieben	szeretni
+treffen	találkozni
+grüßen	köszönni, üdvözölni
+anbieten	kínálni
+weggehen	elmenni
+meinen	gondolni, vélni
+verlesen	felolvasni
+übersetzen	fordítani
+vergleichen	összehasonlítani
+raten	tanácsolni, kitalálni
+hören	hallani
+lesen	olvasni
+markieren	megjelölni
+nachsprechen	utánamond, megismétel
+notieren	jegyzetelni
+variieren	variálni
+antworten	válaszolni
+wissen	tudni
+buchstabieren	betűzni
+tun	tenni
+reinkommen	bejönni
+rufen	hívni
+brauchen	szüksége van valamire
+herumgehen	körüljárni
+stellen	állítani
+liegen	feküdni
+wechseln	cserélni
+regnen	esni (eső)
+zahlen	fizetni
+gucken	nézni
+bauen	építeni
+wandern	vándorolni, túrázni
+schließen	bezárni
+helfen	segíteni
+möchten	szeretne valamit
+mögen	szeretni, kedvelni
+backen	sütni (sütit)
+kochen	főzni
+braten	sütni (húst)
+verstehen	érteni
+schmecken	ízleni
+kaufen	vásárolni
+danken	megköszönni
+kosten	kerülni valamibe
+trinken	inni
+studieren	tanulni
+reichen	elégnek lenni
+lassen	hagyni
+glauben	hinni
+aussehen	kinézni
+losgehen	elindulni
+austauschen	kicserélni
+bedeuten	jelenteni
+wiederholen	megismételni
+konsumieren	fogyasztani
+prüfen	megvizsgálni
+gefallen	tetszeni
+finden	találni
+vermieten	bérbe adni
+bezahlen	kifizetni
+spülen	mosogatni
+fehlen	hiányozni
+rüberkommen	átjönni
+mieten	bérelni
+sich freuen	örülni
+Na los!	Na gyerünk!
+Los geht's!	Indulás! Gyerünk!
+Wartet!	Várjatok!
+unbekante	ismeretlen
+noch	még, másik
+welche	melyik
+zuerst	először
+doch	(de) hiszen
+ganz	egészen
+einfach	egyszerű
+wer	ki? kik?
+woher	honnan?
+warum	miért?
+weil	mert, mivel
+denn	ugyan, hát, mert, mivel
+weiter	tovább, további
+abgemacht	rendben, megbeszéltük
+braun	barna
+grün	zöld
+schmutzig	piszkos, koszos
+blau	kék
+Moment mal!	Egy pillanat!
+geschieden	elvált
+gleich	azonnal
+Bis später!	Később találkozunk!
+Bis gleich!	Hamarosan találkozunk!
+jetzt	most, jelenleg
+falsch	rossz, helytelen
+richtig	helyes
+noch einmal	még egyszer
+bei	-nál, -nél
+da sein	ott lenni
+leid tun	sajnálni
+zu zweit	ketten, párban
+windig	szeles
+Wie lange?	Mennyi ideig?
+mehrmals	többször
+ledig	nőtlen, hajadon
+verwitwet	özvegy
+verheiratet	házas
+zusammen	együtt
+alt	öreg
+aber	de, azonban
+schon	már, még
+lange	hosszú
+zurzeit	jelenleg
+müde	álmos
+einstellig	egyjegyű
+ebenfalls	úgyszintén
+noch nicht	még nem
+andere	más, másik
+also	így, tehát, szóval
+schon sehr lange	már régóta
+alles gut	minden jó
+erst	még csak
+immer	mindig
+beide	mindkettő
+genau	pontosan
+langweilig	unalmas
+fertig	kész, készen
+Bis bald!	Nemsokára találkozunk!
+lecker	finom
+wirklich	valóban
+vielleicht	talán
+Freut mich!	Örvendek!
+gleichfalls	viszont kívánom
+dann	akkor
+für	-nak, -nek
+typisch	tipikus
+teuer	drága
+gern	szívesen, örömmel
+anderhalb	másfél
+lieber	inkább
+dazu	hozzá, ahhoz
+damit	azzal
+Toll!	Nagyszerű!
+rechts	jobbra
+links	balra
+dort	ott
+zu Hause	otthon (lenni)
+neu	új
+klein	kicsi
+hell	világos
+dunkel	sötét
+billig	olcsó
+schön	szép
+
+schmal	keskeny
+breit	széles
+grau	szürke
+weiß	fehér
+rot	piros
+gelb	sárga
+nett	kedves
+circa	kábé
+privat	magán
+ab	-tól, -től
+sofort	azonnal
+maximal	maximum
+möbliert	bútorozott
+ungefähr	körülbelül, hozzávetőlegesen
+hoch	magas
+ziemlich	meglehetősen
+egal	mindegy
+besonder	különleges
+jung	fiatal
+schnell	gyors
+kaputt	tönkrement
+nach Hause	hazafelé
+gerade	egyenes
+tief	mély
+ab sofort	mostantól
+besonders	különösen
+gar nicht	egyáltalán nem
+nämlich	ugyanis
+bei mir	nálam
+quer	át
+voll	teli
+wichtig	fontos
+ander	egyéb, más
+die Eigenschaft, -en	tulajdonság
+das Adjektiv, -en	melléknév
+endlich	végül, végre
+froh	boldog
+sogar	sőt, ráadásul
+natürlich	természetesen, persze
+wollen	akarni
+mindestens	legalább
+höchstens	legfeljebb
+Dann nicht!	Akkor nem!
+Du magst lieber Fleischsoße.	Te inkább a hússzószt szereted.
+Ich habe Hunger.	Éhes vagyok!
+Was haben wir? Mal sehen.	Mink van? Nézzük meg!
+Hier, bitte.	Itt van, tessék!
+Möchtest du Pfannkuchen?	Szeretnél palacsintát?
+Lara und ich möchten Pfannkuchen backen.	Lara és én palacsintát szeretnénk sütni.
+Wir brauchen aber Eier.	Azonban szükségünk van tojásokra.
+Wo sind denn hier die Eier?	Ugyan hol vannak itt a tojások?
+Das ist doch kein Ei.	De hát ez nem is tojás.
+Das macht 2 Euro 49.	2 euró 49 centbe kerül.
+Was ist denn hier los?	Itt meg ugyan mi folyik?
+Kann ich dir helfen?	Segíthetek neked?
+Sonst noch etwas?	Másvalamit még?
+Haben wir jetzt alles?	Most már mindenünk van?
+zu teuer	túl drága
+Das geht.	Az elmegy!
+Fleisch esse ich nicht.	Nem eszem húst.
+Lass sie doch!	Hagyd őt (lányt) békén!
+Ich glaube nicht.	Nem hiszem.
+zum Beispiel	például
+es gibt	van valami, létezik
+Ich esse gern Fleisch.	Szívesen eszem húst.
+Ich esse nicht so gern Gemüse.	Nem annyira szívesen eszem zöldséget.
+Kaffee ist mein Lieblingsgetränk.	Kávé a kedvenc italom.
+Ein Kaffee pro Tag reicht nicht.	Napi egy kávé nem elég.
+Wie kann ich Ihnen helfen?	Hogyan tudok segíteni Önnek?
+nichts mehr	semmi több
+Ruf bitte gleich an!	Hívj azonnal, kérlek!
+Wie gefällt dir die Schreibtischlampe?	Hogy tetszik az íróasztallámpa?
+Viel Erfolg beim Deutschlernen.	Sok sikert a némettanuláshoz!
+Sag mal!	Mondd csak!
+Was siehst du?	Mit látsz?
+Ist hier auch ein Arbeitszimmer?	Van itt egy dolgozószoba is?
+Wie gefallen Ihnen denn die Stühle?	Hogy tetszenek Önöknek a székek?
+Kannst du schnell mal rüberkommen?	Át tudnál jönni gyorsan?
+Ich lese gerade.	Éppen most olvasom.
+Die Lampe ist von einem dänischen Designer.	A lámpa egy dán tervezőtől van.
+Wie hoch ist die Miete?	Milyen magas a bérleti díj?
+Ich freue mich.	Örülök!
+aus Holz	fából van (fából levő)
+Das ist alles.	Ez minden.
+Ich brauche gar nicht so viel Platz.	Egyáltalán nincs szükségem sok helyre.
+Bei mir ist nämlich Ordnung.	Nálam ugyanis rend van.
+Ich habe endlich eine Wohnung.	Végre van egy lakásom.
+Das klingt sehr gut!	Nagyon jól hangzik!
+Das macht nichts.	Nem tesz semmit.
+bis	-ig
+die Präsentation, -en	prezentáció
+frühstücken	reggelizni
+das Stück, -e	darab
+das Frühstück	reggeli
+früh	korán
+spazieren gehen	sétálni menni
+aufräumen +A	rendet rakni
+aufstehen	felkelni
+anrufen +A	felhívni
+der Markt, die Märkte	piac
+der Supermarkt	piac
+fernsehen	tévézni
+originell	egyedi, eredeti
+eben	épphogy, pontosan
+hinterlassen	hátrahagyni
+hinter	hátsó, hátulsó
+die Nachricht, -en	üzenet
+der Ton, -e	hang
+das Signal, -e	jel, jelzés
+sich vorstellen +D	elképzelni
+vorbeikommen	beugrani (vkihez)
+Bin ich bei Ihnen richtig?	Jó helyen járok (önöknél)?
+wegen	miatt
+verschieden	különböző
+günstig	előnyös, kedvező
+danke für +A	köszönet valamiért
+der Wecker, -	ébresztőóra
+früher	korábban
+der Montag	hétfő
+der Dienstag	kedd
+der Mittwoch	szerda
+der Donnerstag	csütörtök
+der Freitag	péntek
+der Samstag	szombat
+der Sonntag	vasárnap
+der Mitschüler	osztálytárs
+denken	gondolkozni
+anfangen	kezdeni, elkezdeni, kezdődni
+der Unterricht, -e	tanítás
+um	(vmi) -kor
+ins Bett gehen	aludni menni
+besuchen	látogatni
+von	-tól, -től
+lange schlafen	sokáig aludni
+die Mitternacht	éjfél
+Oje	ajajj!
+Ich komme zu spät!	Elkések!
+der Kreis, -e	kör
+das Quadrat, -e	négyzet
+das Dreieck	háromszög
+das Eck, -e	sarok
+der Fußball	futball
+der Ball, die Bälle	labda
+trennen	elválasztani
+Um wie viel Uhr?	Hány órakor?
+Von wann bis wann?	Mettől meddig?
+der Wochentag	hétköznap
+das Wochenende	hétvége
+das Ende, -n	vég, vége
+beenden	végezni, elvégezni
+beginnen	elkezdődni, megkezdődni
+die Woche, -n	hét
+wie immer	mint mindig
+Möchtest du mitkommen?	Szeretnél velünk jönni?
+in der Nacht	éjszaka (mikor?)
+ins Kino gehen	moziba menni
+spielen Computerspiele	számítógépes játékot játszani
+offiziell	hivatalos
+bleiben	maradni
+der Radiosprecher	rádióbemondó
+wohl	jól
+nun	nos hát, ámde
+folgen	következni, utána jönni
+der Fahrplan	menetrend
+der Plan, die Pläne	terv
+kennenlernen	megismerni
+genießen	élvezni
+das Schiff, -en	hajó
+die Abfahrt	indulás, elindulás
+das Fahrrad	kerékpár
+das Rad, die Räder	kerék
+der Feiertag	ünnepnap
+viel los sein	elfoglaltnak lenni (los)
+gesund	egészséges
+sicher	biztos, biztosan
+jeden Tag	minden nap
+zeichnen	rajzol, megrajzol
+kurz	rövid
+die Zeit, -en	idő, időszak
+passen	megfelelni
+öffnen	kinyitni
+geöffnet sein	nyitva lenni
+erreichen	elérni, megvalósítani
+die Veranstaltung, -en	rendezvény
+außerhalb	(vmin) kívül
+die Bibliothek, -en	könyvtár
+die Ausleihe	kölcsönzés
+die Leihe, -n	kölcsön
+ausleihen	kölcsönad, kölcsönöz
+der Urlaub, -e	szabadság, nyaralás
+drücken	nyomni, megnyomni
+wieder	ismét, újra
+geschlossen sein	bezárva lenni
+begrüßen	köszönt, üdvözöl
+erhalten	kapni, megkapni
+der Werktag	munkanap
+beschäftigt	foglalt, elfoglalt
+vor den Fernseher	a TV előtt
+die Leitung, -en	vezeték, vonal
+belegt sein	elfoglaltnak lenni (belegen)
+belegen	foglalni, lefoglalni
+der Beleg, -e	nyugta, bizonylat
+der Himmel, -	ég, menny
+gründen	alapítani
+fast	majdnem
+die Bedienung, -en	kiszolgálás
+sich bedienen	kiszolgálni
+die Säuberung, -en	tisztítás, tisztogatás
+ganz anders	egészen másképp
+durch	át, keresztül
+die Termin, -e	határidő
+der Kalender, -	naptár
+nächst	következő
+das Kino, -s	mozi
+chatten	csetel
+täglich	naponta
+die Ansage, -n	bejelentés, bemondás
+der Film, -e	film
+das Museum, die Museen	múzeum
+das Kaufhaus	áruház
+das Europa (sg.)	Európa
+die Erwachsene, -n	felnőtt
+das Studium, die Studien	felsőfokú (egyetemi) tanulmány
+das Atelier, -s	műterem
+der Maler, -	festő
+die Tabelle, -n	táblázat
+die Tageszeit	napszak
+trotzdem	ennek ellenére
+das Geschäft, -e	üzlet, bolt
+der Führer, -	vezér, vezető
+der Geschäftsführer	ügyvezető
+der Betrieb, -e	üzem
+die Ferien (pl.)	szünet, szünidő
+und zwar	éspedig
+folgend	következő, vmiből következő
+wählen	választani
+erreichbar	elérhető
+entgegennehmen	fogadni, elfogadni
+der Flug, die Flüge	repülőjárat
+der Mietwagen	bérautó, bérkocsi
+sowie	úgymint
+allein	egyedül
+der Ausflug	kirándulás
+autofahren	autót vezetni
+auf dem Bild	a képen
+die Sonne, -n	nap (égitest)
+die Wolke, -n	felhő
+der Mund, die Münder	száj
+die Harmonika, -s	harmónika
+bald	hamarosan, nemsokára
+seit	óta, amióta
+Seit wann?	Mióta?
+wem	kinek?
+wen	kit?
+scheinen	sütni, fényleni
+schneien	havazni
+bewölkt	felhős, borult
+im Norden	északon
+im Westen	nyugaton
+im Süden	délen
+im Osten	keleten
+nirgendwo	sehol
+der Bericht, -e	beszámoló, jelentés
+der Wetterbericht	időjárásjelentés
+die Temperatur, -en	hőmérséklet
+Die Temperatur liegt bei 10 Grad.	10 fok van.
+sonnig	napos, derűs
+steigen	emelkedni
+überall	mindenütt, mindenhol
+meist	többnyire, általában
+morgen	holnap
+kommend	elkövetkezendő
+das Baby, -s	bébi, baba
+die Karte, -n	kártya, térkép
+das Wetter (sg.)	időjárás
+wunderbar	csodás, csodálatos
+wunderschön	csodaszép
+die Sprachschule	nyelviskola
+der Berg, -e	hegy
+Doch!	De!
+auf +D	rajta (vmi vízszintesen)
+nehmen	venni, elvenni
+der Regen, -	eső
+der Schnee (sg.)	hó
+schlecht	rossz
+herbstlich	őszi, őszies
+heraus	kifelé
+sommerlich	nyári, nyárias
+der Frühling, -e	tavasz
+der Sommer, -	nyár
+der Herbst, -e	ősz
+der Winter, -	tél
+herauskommen	előjön, kijön
+werden	válni valamivé
+kühl	hűvös
+der Wind, -e	szél
+der Schein, -e	fény
+der Sonnenschein	napsütés, napfény
+die Aussicht	kilátás
+möglich	lehetséges, lehet
+weit	messze, távoli
+Es ist so weit.	Eljött az idő.
+glatt	sima, csúszós
+hätte gern	szeretnék, szívesen venném
+zwischen	között, közt
+die Idee, -n	ötlet
+Das waren die Nachrichten.	Ezek voltak a hírek.
+Der Frühling kommt zurück.	A tavasz visszatér.
+joggen	kocogni
+das Mädchen, -	leány
+das Junge, -n	fiú
+der Spaß, die Späße	öröm, élvezet
+In meiner Freizeit schwimme und wandere ich gern.	A szabadidőmben szívesen úszok és kirándulok.
+Ich finde Krimis interessant.	Érdekesnek találom a krimiket.
+interessant	érdekes
+Meine Lieblingsfarbe ist Blau.	A kedvenc színem a kék.
+Ich vergesse immer meine Stifte.	Mindig elfelejtem a ceruzáimat.
+Der Schnee ist zurzeit sehr gut.	A hó jelenleg nagyon jó.
+das Picknick, -s	piknik
+die Gitarre, -s	gitár
+telefonieren	telefonálni
+fotografieren	fotózni
+viel	sok
+das Grad (sg.)	fok
+das Radio, -s	rádió
+das Internet (sg.)	internet
+heute	ma (mikor?)
+minus	mínusz
+die Speisekarte	étlap
+die Speise, -n	étel
+das Ketchup, -s	ketchup
+der Hamburger, -	hamburger
+der Schinken, -	sonka
+das Dessert, -s	desszert
+der Papa, -s	papa, apu
+der Ski, -er	sí, síléc
+der Klub, -s	klub
+surfen	szörfözni
+der Krimi, -s	krimi
+die Reise	út, utazás
+die Natur (sg.)	természet
+das Programm, -e	program
+heiß	forró
+die Mitte (sg.)	közép
+die Möglichkeit, -en	lehetőség, eshetőség
+das Mountainbike, -s	hegyikerékpár
+klettern	mászni, felmászni
+die Insel, -n	sziget
+die Konjugation, -en	igeragozás
+die Kommunikation, -en	kommunikáció
+die Liebe, -n	szeretet
+die Strategie, -n	stratégia
+das Ziel, -e	cél
+zustimmen	beleegyezni
+verneinen	tagadni, elutasítani
+das Lied, -er	dal
+die Jahreszeit	évszak
+der	határozott, nominativ, hímnem
+die	határozott, nominativ, nőnem
+das	határozott, nominativ, semlegesnem
+die	határozott, nominativ, többes szám
+den	határozott, akkusativ, hímnem
+die	határozott, akkusativ, nőnem
+das	határozott, akkusativ, semlegesnem
+die	határozott, akkusativ, többes szám
+dem	határozott, dativ, hímnem
+der	határozott, dativ, nőnem
+dem	határozott, dativ, semlegesnem
+den +n	határozott, dativ, többes szám
+des +s	határozott, genitiv, hímnem
+der	határozott, genitiv, nőnem
+des +s	határozott, genitiv, semlegesnem
+der	határozott, genitiv, többes szám
+ein	határozatlan, állító, nominativ, hímnem
+eine	határozatlan, állító, nominativ, nőnem
+ein	határozatlan, állító, nominativ, semlegesnem
+einen	határozatlan, állító, akkusativ, hímnem
+eine	határozatlan, állító, akkusativ, nőnem
+ein	határozatlan, állító, akkusativ, semlegesnem
+einem	határozatlan, állító, dativ, hímnem
+einer	határozatlan, állító, dativ, nőnem
+einem	határozatlan, állító, dativ, semlegesnem
+eines	határozatlan, állító, genitiv, hímnem
+einer	határozatlan, állító, genitiv, nőnem
+eines	határozatlan, állító, genitiv, semlegesnem
+kein	határozatlan, tagadó, nominativ, hímnem
+keine	határozatlan, tagadó, nominativ, nőnem
+kein	határozatlan, tagadó, nominativ, semlegesnem
+keine	határozatlan, tagadó, nominativ, többes szám
+keinen	határozatlan, tagadó, akkusativ, hímnem
+keine	határozatlan, tagadó, akkusativ, nőnem
+kein	határozatlan, tagadó, akkusativ, semlegesnem
+keine	határozatlan, tagadó, akkusativ, többes szám
+keinem	határozatlan, tagadó, dativ, hímnem
+keiner	határozatlan, tagadó, dativ, nőnem
+keinem	határozatlan, tagadó, dativ, semlegesnem
+keinen	határozatlan, tagadó, dativ, többes szám
+keines	határozatlan, tagadó, genitiv, hímnem
+keiner	határozatlan, tagadó, genitiv, nőnem
+keines	határozatlan, tagadó, genitiv, semlegesnem
+keiner	határozatlan, tagadó, genitiv, többes szám
+ich	személyes, nominativ, E/1.
+du	személyes, nominativ, E/2.
+er	személyes, nominativ, E/3, hímnem
+sie	személyes, nominativ, E/3., nőnem
+es	személyes, nominativ, E/3., semlegesnem
+wir	személyes, nominativ, T/1.
+ihr	személyes, nominativ, T/2.
+sie	személyes, nominativ, T/3.
+Sie	személyes, nominativ, önöző
+mich	személyes, akkusativ, E/1.
+dich	személyes, akkusativ, E/2.
+ihn	személyes, akkusativ, E/3, hímnem
+sie	személyes, akkusativ, E/3., nőnem
+es	személyes, akkusativ, E/3., semlegesnem
+uns	személyes, akkusativ, T/1.
+euch	személyes, akkusativ, T/2.
+sie	személyes, akkusativ, T/3.
+Sie	személyes, akkusativ, önöző
+mir	személyes, dativ, E/1.
+dir	személyes, dativ, E/2.
+ihm	személyes, dativ, E/3, hímnem
+ihr	személyes, dativ, E/3., nőnem
+ihm	személyes, dativ, E/3., semlegesnem
+uns	személyes, dativ, T/1.
+euch	személyes, dativ, T/2.
+ihnen	személyes, dativ, T/3.
+Ihnen	személyes, dativ, önöző
+mein	személyes, genitiv, E/1.
+dein	személyes, genitiv, E/2.
+sein	személyes, genitiv, E/3, hímnem
+ihr	személyes, genitiv, E/3., nőnem
+sein	személyes, genitiv, E/3., semlegesnem
+unser	személyes, genitiv, T/1.
+euer	személyes, genitiv, T/2.
+ihr	személyes, genitiv, T/3.
+Ihr	személyes, genitiv, önöző
+mein	jelzői birtokos, nominativ, egy birtok (hímnem), E/1.
+dein	jelzői birtokos, nominativ, egy birtok (hímnem), E/2.
+sein	jelzői birtokos, nominativ, egy birtok (hímnem), E/3, hímnem
+ihr	jelzői birtokos, nominativ, egy birtok (hímnem), E/3., nőnem
+sein	jelzői birtokos, nominativ, egy birtok (hímnem), E/3., semlegesnem
+unser	jelzői birtokos, nominativ, egy birtok (hímnem), T/1.
+euer	jelzői birtokos, nominativ, egy birtok (hímnem), T/2.
+ihr	jelzői birtokos, nominativ, egy birtok (hímnem), T/3.
+Ihr	jelzői birtokos, nominativ, egy birtok (hímnem), önöző
+meine	jelzői birtokos, nominativ, egy birtok (nőnem), E/1.
+deine	jelzői birtokos, nominativ, egy birtok (nőnem), E/2.
+seine	jelzői birtokos, nominativ, egy birtok (nőnem), E/3, hímnem
+ihre	jelzői birtokos, nominativ, egy birtok (nőnem), E/3., nőnem
+seine	jelzői birtokos, nominativ, egy birtok (nőnem), E/3., semlegesnem
+unsere	jelzői birtokos, nominativ, egy birtok (nőnem), T/1.
+eu(e)re	jelzői birtokos, nominativ, egy birtok (nőnem), T/2.
+ihre	jelzői birtokos, nominativ, egy birtok (nőnem), T/3.
+Ihre	jelzői birtokos, nominativ, egy birtok (nőnem), önöző
+mein	jelzői birtokos, nominativ, egy birtok (semlegesnem), E/1.
+dein	jelzői birtokos, nominativ, egy birtok (semlegesnem), E/2.
+sein	jelzői birtokos, nominativ, egy birtok (semlegesnem), E/3, hímnem
+ihr	jelzői birtokos, nominativ, egy birtok (semlegesnem), E/3., nőnem
+sein	jelzői birtokos, nominativ, egy birtok (semlegesnem), E/3., semlegesnem
+unser	jelzői birtokos, nominativ, egy birtok (semlegesnem), T/1.
+euer	jelzői birtokos, nominativ, egy birtok (semlegesnem), T/2.
+ihr	jelzői birtokos, nominativ, egy birtok (semlegesnem), T/3.
+Ihr	jelzői birtokos, nominativ, egy birtok (semlegesnem), önöző
+meine	jelzői birtokos, nominativ, több birtok, E/1.
+deine	jelzői birtokos, nominativ, több birtok, E/2.
+seine	jelzői birtokos, nominativ, több birtok, E/3, hímnem
+ihre	jelzői birtokos, nominativ, több birtok, E/3., nőnem
+seine	jelzői birtokos, nominativ, több birtok, E/3., semlegesnem
+unsere	jelzői birtokos, nominativ, több birtok, T/1.
+eu(e)re	jelzői birtokos, nominativ, több birtok, T/2.
+ihre	jelzői birtokos, nominativ, több birtok, T/3.
+Ihre	jelzői birtokos, nominativ, több birtok, önöző
+trocken	száraz
+tauchen	búvárkodni
+die Küste, -n	tengerpart
+stören	zavarni
+die Kälte (sg.)	hideg (időjárás)
+draußen	kint
+man	általános alany
+auf alle Fälle	mindenesetre
+der Fall, die Fälle	eset, ügy
+mitmachen	együttműködni, résztt venni
+der Schneemann	hóember
+der Mann, die Männer	férfi, férj
+vor allem	mindenekelőtt, elsősorban
+das Beginnen, -	kezdet
+farbig	színes
+der Baum, die Bäume	fa
+der Zustand	állapot, helyzet
+das Büro, -s	iroda
+ins Büro	az irodába
+Na prima!	Remek!
+raus	ki, kifelé
+die Einladung, -en	meghívás, meghívó
+dabei	ennél, annál, nála
+recherchieren	kutat, utánanéz
+der Fernunterricht	távoktatás, levelező oktatás
+rosa	rózsaszín
+mit dem Hund spazieren	kutyát sétáltatni
+passieren	történni
+der Reifen, -	karika, abroncs
+üben	gyakorolni
+schicken	küldeni
+email senden	emailt küldeni
+lustig	vidám, mulatságos
+die Ahnung, -en	sejtelem, fogalom (vmiről)
+irgendwas	valami
+schwingen	lengeni, lendíteni
+der Schwung, die Schwünge	lendület
+jonglieren	zsonglőrködni
+reiten	lovalgolni
+stricken	kötni (kézimunka)
+zur Seite	oldalra
+der Fuß, die Füße	láb (-fej)
+vor	előre
+zurück	hátra
+durchschnittlich  	átlagos
+die Ausbildung, -en	képzés, kiképzés
+die Weiterbildung	továbbképzés
+das Ding, -e	valami, dolog, holmi
+Das gibt's doch nicht!	Nem létezik!
+Jetzt macht er alles richtig.	Most minden jól csinál.
+Was mache ich falsch?	Mit csinálok rosszul?
+Er macht die Vase kaputt.	Összetöri a vázát.
+als Kind	gyerekként
+das Präsens, die Präsentia	jelenidő
+gestern	tegnap
+das Eis, -e	fagylalt
+überhaupt	egyáltalán
+genug	elegendő, elégséges
+deshalb	emiatt, ezért
+fleißig	szorgalmas
+leicht	könnyű
+entdecken	felfedezni
+rauchen	dohányozni
+springen	ugrani, ugrálni
+überspringen	átugrani
+aufhören	abbahagyni
+hingehen	odamenni
+nie	soha, sohasem
+geehrt	tisztelt, megbecsült
+die Anrede, -n	megszólítás
+der Gruß, die Grüße	üdvözlés
+der Anfänger, -	kezdő, amatőr
+schwer	nehéz
+pünktlich	pontos, pontosan (időben)
+meistens	többnyire, leginkább
+letzt	utolsó
+die Vokabel, -n	szó (idegen eredetű)
+die Grammatik, -en	nyelvtan
+jemand	valaki
+der Sender, -	adó, küldő, állomás
+der Radiosender	rádióadó
+funktionieren	működikni, üzemelni
+der Kommentar, -e	magyarázat, kommentár
+stimmen	egyezni, stimmelni
+der Tipp, -s	tipp
+das Tennis (sg.)	tenisz
+das Klavier, -e	zongora
+senkrecht	függőleges
+waagerecht	vízszintes
+der Stress (sg.)	stressz
+das Training, -s	edzés, tanfolyam
+die Psychologie (sg.)	lélektan, pszichológia
+das Theater, -	színház
+die Produktion, -en	produkció, mutatvány
+die Mathematik (sg.)	matematika
+oft	gyakran, sokszor
+öfter	gyakrabban, többször
+cool	király, klassz
+der Bus, -se	busz
+das Plakat, -e	plakát
+der Comic, -s	képregény
+der Besserwisser	mindent jobban tudó, okostojás
+der Fehler, -	hiba
+die Umfrage	felmérés, körkérdés
+ruhig	nyugodt
+fest	szilárd, erős
+sich anmelden	jelentkezni, bejelentkezni
+unbedingt	feltétlenül, mindenképpen
+selbst	maga, ön-
+dauern	tartani (időben)
+der Schreiner, -	asztalos
+abholen	elhozni
+die Hose, -n	nadrág
+lösen	megoldani
+bekommen	kapni, megkapni
+begießen	megöntözni
+hängen	akasztani, lógni, függeni
+die Wand, die Wände	fal
+bummeln	mászkálni, kószálni
+laut	hangos
+das Fieber, -	láz
+außerdem	azonkívül, ezenkívül
+nennen	nevezni, elnevezni
+Kaffee zum Mitnehmen	kávé elvitelre
+hassen	utálni
+außer	kivéve
+eigentlich	tulajdonképpen, valójában
+die Erfahrung, -en	tapasztalat, jártasság
+der Pfleger, -	ápoló, gondozó
+der Krankenpfleger	betegápoló
+die Krankenschwester	ápolónő, nővér
+der Therapeut, -	kezelőorvos
+der Physiotherapeut	gyógytornász
+die Praxis, die Praxen	rendelő, praxis
+der Portier, -s	portás
+der Makler, -	ingatlanközvetítő
+der Sänger, -	énekes
+berufstätig	dolgozó, állásban lévő
+arbeitslos	munkanélküli
+das Interview, -s	interjú
+der Chef, -s	főnök
+der Patient, -en	páciens, beteg
+der Journalist, -en	újságíró
+das Thema, die Themen	téma, tárgy
+eigen	saját
+der Ingenieur, -e	mérnök
+beruflich	szakmai, foglalkozással kapcsolatos
+der Schüler, -	tanuló
+der Student, -en	egyetemista
+der Job, -s	állás, munkahely
+die Stelle, -n	hely, állás
+die Arbeitsstelle	munkahely
+selbständig	független, önálló
+der Babysitter, -	bébiszitter
+die Bewerbung, -en	pályázat, kérelem
+das Praktikum, die Praktika	szakmai gyakorlat
+der Leiter, -	vezető
+die Leiter, -n	létra
+die Wirtschaft, -en	gazdaság
+das Diplom, -e	diploma
+die Information, -en	információ
+die Schule, -n	iskola
+die Grundschule	általános iskola
+die Hochschule	főiskola
+die Mittelschule	középiskola
+die Kosmetikerin, -nen	kozmetikus (nő)
+der Helfer, -	segéd, kisegítő
+der Arzhelfer	orvosasszisztens
+die Verfügung, -en	rendelkezésre állás
+zur Verfügung stehen	rendelkezésre állni
+das Zeugnis, -se	bizonyítvány
+seit einem Monat	egy hónapja
+vor einem Jahr	egy évvel ezelőtt
+schon vier Jahre lang	már négy éve
+Das war vor zehn Monaten.	10 hónappal ezelőtt volt.
+geräumig	tágas, kiterjedt
+hilfsbereit	segítőkész
+wenig	kevés
+klug	okos
+der Bereich, -e	hatáskör, terület
+der Semester, -	szemeszter, félév
+erfahren	tapasztalni
+der Kellner, -	pincér
+der Keller, -	pince
+die Unterlage	dokumentum, bizonyíték
+der Lauf, die Läufe	futás, pálya
+der Lebeslauf	életrajz
+schriftlich	írásbeli, írott
+sich bewerben	állásra jelentkezni
+die Regel, -n	szabály, szokás
+bis dahin	addig is
+danach	azután, utána
+letze	utolsó
+Ist noch eine Stelle frei? 	Van még egy szabad állás?
+Ja, Sie können sich gern noch bewerben.	Igen, továbbra is szívesen látjuk a jelentkezését.
+Wie ist die Arbeitszeit?	Milyen a munkaidő?
+Praktikanten arbeiten in der Regel von 8 bis 16 Uhr.	A gyakornokok általában reggel 8-tól délután 4-ig dolgoznak.
+Bekomme ich für das Praktikum eigentlich auch Geld?	Kapok tulajdonképpen pénzt is a szakmai gyakorlatért?
+Schicken Sie uns bitte noch Ihre Bewerbung per E-Mail.	Kérjük, hogy a jelentkezését még küldje el emailben.
+Wir brauchen auch noch einen kurzen Lebenslauf von Ihnen.	Szükségünk van még egy rövid önéletrajzra is Öntől.
+Dann freue ich mich auf Ihre Bewerbung!	Akkor várom a jelentkezését!
+um Infromationen bitten	információt kérni
+das Kärtchen, -	kártyácska
+der Kollege, -n	munkatárs
+normalerweise	normál esetben
+der Regisseur, -e	rendező (film, színház)
+still	csendes, nyugodt, halk
+die Sennerin, -nen	fejőlány
+einig	néhány
+die Kuh, die Kühe	tehén
+das Kalb, die Kälber	borjú
+die Alm, -en	alpesi, havasi legelő
+das Mal, -e	alkalom
+oben	fent, felül
+weg	el, elfele
+die Hütte, -n	kunyhó, viskó
+das Leben, -	élet
+die Stille, -n	csend, nyugalom
+der Bauer, -n	földműves, paraszt
+der Hof, die Höfe	tanya, udvar
+nachdenken	utánagondolni, elgondolkodni
+die Landwirtschaft	mezőgazdaság, gazdálkodás
+die Linie, -n	vonal, járat
+das Ergebnis, -se	eredmény
+der Laden, die Läden	bolt, üzlet
+die Halle, -n	csarnok, hall
+heiraten	házasodni
+manchmal	néha
+der Koch, die Köche	szakács
+die Universität, -en	egyetem
+leider	sajnos
+das Konzert, -e	koncert
+die Agentur, -en	ügynökség
+der Service, -s	kiszolgálás, szervíz
+der Tourismus (sg.)	turizmus
+der Kontakt, -e	kapcsolat
+die Kenntnis, -se	ismeret, tudás
+die Auszubildende, -n	képzésben résztvevő, szakmunkástanuló
+der Handel, die Händel	kereskedelem, kereskedés
+die Dauer (sg.)	időtartam
+angestellt	alkalmazott
+die Betreuung, -en	ellátás, gondozás
+hoffen	remélni
+die Vergütung, -en	bér, fizetés
+verdienen	(pénzt) keresni
+die Gelegenheit, -en	alkalom, lehetőség
+das Zeug, -e	dolog, holmi
+das Kraftfahrzeug	gépjármű
+der Lastkraftwagen	teherautó
+fein	kitűnő, kiváló
+die Bekleidung, -en	öltözet, ruha
+überqualifiziert	túlképzett
+übrigens	amúgy, különben
+der Führerschein	vezetői engedély
+der Schein, -e	papír, elismervény
+die Wiese, -n	rét, mező
+beste	legjobb
+zufrieden sein	elégedettnek lenni
+zu Fuß gehen	gyalog menni
+selten	ritka, ritkán
+das Flugzeug	repülőgép
+der Zug, die Züge	vonat
+die Bahn, -en	pálya, vasút
+die Straßenbahn	villamos
+der O-bus	trolibusz
+nicht mehr	többé már nem
+die Auskunft, die Auskünfte	felvilágosítás, információ
+der Antrag, die Anträge	kérelem, kérvény
+beantragen	kérvényezni
+der Bürger, -	polgár
+vorne	elöl
+Geh du schon!	Menj már!
+mitbringen	magával hozni
+blöd	hülye, buta, lökött
+nachsehen	utánanézni
+ausländisch	külföldi, idegen
+ausfüllen	kitölteni
+Gibt's kein Problem.	Nincs semmi probléma.
+die Autovermietung	autókölcsönző
+der Omnibusbahnhof	autóbuszpályaudvar
+das Ticket, -s	jegy
+das Amt, die Ämter	hivatal
+europäisch	európai
+die Fahrt, -en	út, utazás, menet
+der Ausweis, -e	igazolás, igazolvány
+der Pass, die Pässe	útlevél
+der Automat, -en	automata
+auswahlen	kiválasztani
+der Schluss (sg.)	befejezés, zárás
+zum Schluss	végül, végezetül
+der Entritt, -e	belépő
+der Schritt, -e	lépés
+schieben	tolni
+stempeln	bélyegezni
+entwerten	érvényesíteni
+gültig	érvényes, hatályos
+diskutieren	tárgyalni
+erinnern	emlékezni
+teilnehmen	résztvenni
+sich schämen	szégyellni magát
+die Gebühr, -en	illeték, díj
+ausmachen	kikapcsolni
+erlaubt	szabad, megengedett
+verboten	tilos
+abgeben	leadni
+benutzen	használni, alkalmazni
+leise	halk, csendes
+worüber	miről, amiről
+die Sehenswürdigkeit	látványosság, látnivaló
+besichtigen	megtekinteni
+der Gang, die Gänge	menet, séta
+der Stadtrundgang	városnéző séta
+wichtigste	legfontosabb
+berühmt	híres
+der Fels, -en	(kő)szikla
+die Aufführung, -en	előadás
+die Opernaufführung	operaelőadás
+das Gebäude, -	épület
+die Glocke, -n	harang
+der Falke, -n	sólyom
+der Komponist, -en	zeneszerző
+gebären	szülni
+die Ermäßigung, -en	kedvezmény
+stattfinden	megrendezésre kerül, megtörténik, végbemegy
+die Festung, -en	erőd, erődítmény
+der Stern, -e	csillag
+der Föhn, -e	hajszárító
+der Blick, -e	kilátás
+das Flair (sg.)	hangulat, légkör
+die Bewertung, -en	értékelés, becslés
+spinnen	hülyeséget beszélni
+unterwegs sein	úton lenni
+reservieren	foglalni, lefoglalni
+die Bestätigung, -en	visszaigazolás
+der Wunsch, die Wünsche	kivánság
+die Ankunft, die Ankünfte	megérkezés
+die Angabe	adat
+die Nähe (sg.)	közel, közelség
+die Dienstleistung, -en	szolgáltatás
+die Bucht, -en	öböl
+auswendig	fejből, kívülről
+Bescheid wissen	tudni róla
+hoffentlich	remélhetőleg
+die Anmeldung, -en	bejelentkezés
+der Verkehr, -e	forgalom, közlekedés
+der Aufzug	lift
+der Karneval, -e	karnevál
+feiern	ünnepelni
+der Fasching, -e	farsang
+ungemötlich	kellemetlen, barátságtalan
+fühlen	érezni, megérezni
+sich fühlen	érezni magát
+sich erinnern an	emlékezni valamire
+das Stichwort	kulcsszó
+die Gans, die Gänse	liba, lúd
+die Laterne, -n	lámpás
+übertrieben	eltúlozni
+erklären	elmagyarázni, megmagyarázni
+Gute Besserung!	Jobbulást!
+weh tun	fájni
+das Auge, -n	szem
+die Nase, -n	orr
+die Brust, die Brüste	mell
+der Bauch, die Bäuche	has
+das Bein, -e	láb
+die Haar, -e	haj
+der Kopf, die Köpfe	fej
+das Ohr, -en	fül
+der Hals, die Hälse	torok
+der Rücken, -	hát
+der Finger, -	ujj
+die Hand, die Hände	kéz
+der Arm, -e	kar
+der Schmerz, -en	fájdalom
+Schmerzen haben	fájdalma van
+der Unfall, die Unfälle	baleset
+ausfallen	elmaradni, kiesni
+krank	beteg
+der Schatz, die Schätze	kincs
+der/die Bekannte, -n	ismerős (személy)
+verwenden	alkalmaz, használ
+der Körper, -	test
+der Körperteil	testrész
+das Knie, -	térd
+der Kuss, die Küsse	puszi, csók
+kühlen	hűteni
+der Husten, -	köhögés
+husten	köhögni
+der Brand, die Brände	éges, égetés
+der Sonnenbrand	leégés
+eintragen	bevinni, bejegyezni
+tragen	hordani
+der Schnupfen, -	nátha
+rausgehen	kimenni
+gegen	ellen, szemben
+die Salbe, -n	kenőcs
+die Apotheke, -n	gyógyszertár
+der/die Arme, -n	szegény (ember)
+zeigen	mutatni
+die Not, die Nöte	szükség, baj
+die Aufnahme, -n	felvétel, feljegyzés
+drüben	odaát
+sich hinsetzen	leülni, odaülni
+hergeben	ideadni
+schlimm	beteg, rossz
+wahr	igazi, valódi
+witzig	vicces
+schick	elegáns, sikkes
+hässlich	csúnya
+aufmachen	kinyitni
+stehenbleiben	megállni
+der Quatsch (sg.)	sületlenség, hülyeség
+blaues Auge	monokli (sérülés)
+der Schreck, -e	ijedtség, rémület
+schrecklich	rémes, szörnyű
+dick	kövér, vastag
+die Sache, -n	dolog, tárgy
+beobachten	figyel, megfigyel
+einladen	meghívni
+beantworten	megválaszolni
+rund	kerek, gömbölyű
+sehr	nagyon
+weinen	sírni
+der Schuh, -e	cipő
+der Schlitten, -	szánkó
+der Schlittschuh	korcsolya
+Schlittschuh laufen	korcsolyázni
+rund um	valami körül
+viel zu tun haben	sok tennivalójának lenni
+womit	mivel, amivel
+die Anfrage	érdeklődés
+der Betreff, -e	tárgy, téma
+der Absender, -	feladó, küldő
+der Empfänger, -	címzett
+reden	szólni, beszélni
+ändern	változtatni, megváltoztatni
+vereinbaren	egyeztetni, leegyeztetni
+absagen	lemondani
+dringend	sürgős, sürgősen
+die Haut, die Häute	bőr (emberé)
+die Sprechstunde	rendelés, fogadóóra
+verschieben	eltolni, elhalasztani
+der Turm, die Türme	torony
+krabbeln	mászni (vízszintesen)
+kriechen	kúszni
+umfallen	elesni
+fliegen	repülni
+holen	hozni
+nachher	aztán, utána
+die Werkstatt, die Werkstätten	műhely, szervíz
+das Navigationsgerät	navigációs készülék
+das Gerät, -e	készülék
+geradeaus	egyenesen
+das Schild, -er	(jelző)tábla
+einschalten	bekapcsolni
+der Schalter, -	kapcsoló
+die Tankstelle	benzinkút
+die Brücke, -n	híd
+die Ampel, -n	közlekedési lámpa
+zumachen	becsukni
+die Metzgerei, -en	hentesbolt
+der Ausstieg, -e	kiszállás
+die Schiene, -n	sín
+das Gleis, -e	vágány
+einfahren	befutni (jármű), behajtani
+die Vorsicht	óvatosság
+die Sicht, -en	látás
+die Fahrtrichtung	menetirány
+die Richtung, -en	irány, irányzat
+aussteigen	kiszállni, leszállni
+einsteigen	beszállni, felszállni
+umsteigen	átszállni
+ausstellen	kiállítani
+einstellen	beállítani
+umstellen	átállítani
+die Handlung, -en	kereskedés
+der Kiosk, -e	kioszk, kisbolt
+die Bücherei, -en	könyvtár
+die Bäckerei, -en	pékség
+die Bank, -en	bank
+die Fußgängerzone	sétálónegyed
+die Zone, -n	övezet, zóna
+die Konferenz, -en	konferencia, értekezlet
+das Stadion, die Stadien	stadion
+der Kunde, -n	ügyfél, vevő
+kopieren	másolni, fénymásolni
+hinten	hátul
+die Ecke, -n	sarok, szeglet
+die Verspätung, -en	késés
+ankommen	megérkezni
+der Bahnsteig	peron
+der Steig, -e	keskeny ösvény
+die Durchsage	hangosbemondó
+die Sage, -n	monda
+der Anschluss, die Anschlüsse	csatlakozás
+hin und zurück	oda és vissza
+die Umgebung, -en	környék, környezet
+die Innenstadt	belváros
+das Dorf, die Dörfer	falu, község
+schnüffeln	szimatolni, szaglászni
+warten auf +A	várni valakire
+verbringen +A	(el)tölteni (vmit)
+Zeit verbringen	időt tölteni
+der Hafen, die Häfen	kikötő, rév
+der Flughafen	repülőtér
+zuhören	hallgatni, figyelni
+verehrt	tisztelt
+beachten	figyelni, figyeleme venni
+voraussichtlich	előreláthatóan
+Wir bitten um Entschuldigung.	Elnézést kérünk (a kellemetlenségekért).
+achten auf +A	figyelni, ügyelni (vmire)
+Einfach oder hin und zurück?	Egy útra vagy oda és vissza?
+gegenüber	szemben, átellenben
+tauschen	cserélni
+die Kleider (pl.)	ruha
+der Hut, die Hüte	kalap
+der Beutel, -	tárca, erszény
+nähen	varrni
+bestellen	megrendelni
+in etwa	hozzávetőleg
+sich lohnen	megérni, kifizetődni
+sauer	savanyú, fanyar
+unfreundlich	barátságtalan
+die Reparatur, -en	javítás, kijavítás
+die Garantie, -n	garancia
+vorbeibringen	áthozni
+zurückgeben	visszadni
+anmachen	bekapcsolni
+das Papier (sg.)	papír
+das Licht (sg.)	fény, lámpa
+die Bitte, -n	kérés, kérelem
+empfehlen	javasolni, ajánlani
+Bescheid geben	tájékoztatni, felvilágosítani
+gründlich	alapos, alaposan
+löschen	törölni, kitörölni
+abschalten	lekapcsolni, kikapcsolni
+die Weisung, -en	utasítás, útmutatás
+die Überweisung	átutalás
+die Tasche, -n	táska
+das Pech, -e	baj, balszerencse
+gehören zu +D	tartozni vhova, valaminek a része lenni
+die Tüte, -n	zacskó
+das Plastik, -s	műanyag
+das Besondere (sg.)	különlegesség
+verkalken	meszesedik, elmeszesedik
+der Essig, -e	ecet
+wahrscheinlich	valószínűleg
+nötig	szükséges
+die Laune, -n	kedv, hangulat
+die Beratung, -en	tanácsadás, tanácskozás
+das Ausland	külföld
+die Reinigung, -en	takarítás
+reinigen	takarítani, tisztítani
+das Dachfenster	tetőablak
+das Dach, die Dächer	tető
+sauber	tiszta, takaros
+sauber machen	kitakarítani
+skandinavisch	skandináv
+asiatisch	ázsiai
+arabisch	arab
+das Gericht, -e	étel
+die Nudel, -n	tészta
+die Freude, -n	öröm, boldogság
+der/das Teil, -e	rész, darab
+der Ersatz, -	tartalék
+das Lager, -	raktár
