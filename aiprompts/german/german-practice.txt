@@ -4,6 +4,8 @@ A fordításoknak nem kell tökéletesnek lenniük, nyelvtanilag legyenek ugyan 
 A szavakat tartalmazó táblázat nem egyszerűen a német szavakat és azok magyar jelentéseit tartalmazza, de tartalmazza főnevek esetén azok névelőit, a többbes szám képzésének módját (azt többnyire rövidítve, csak akkor van teljesen kiírva ha egyedi a többes száma az adott főnévnek), igék esetében néha azok vonzatát (tárgyeset, alanyeset, stb.), illetve néha egy-egy teljeses kifejezés is előfordul a táblázatban.
 A lefordított mondatok lehetnek egyszerű kijelentő mondatok, kérdések, lehetnek jelen és befejezett múlt időben, sőt akár egyszerű jövő időben is. Összetett mondatok ne legyenek, azok alkotását még nem tanultam.
 
+Fel fogok tölteni még egy text fájlt is, amiben az eddig tanultak szövegeinek gyűjteménye van, ezek alapján láthatod, hogy milyen mondatokat tanultunk meg alkotni, milyen típusú szerkezeteket tudok használni.
+
 Kezdjünk is bele, itt a táblázat:
 
 das Hemd, -en	(férfi)ing
